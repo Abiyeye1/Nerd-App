@@ -1,0 +1,1 @@
+web: gunicorn Nerdapple.wsgi --log-file -
